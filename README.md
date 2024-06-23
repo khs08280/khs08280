@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Gu%20Minuk%20GitHub%20Profile&height=200&fontSize=26&animation=fadeIn&fontAlign=75&fontAlignY=40&color=141321)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Gu%20Minuk%20GitHub%20Profile&height=200&fontSize=26&animation=fadeIn&fontAlign=75&fontAlignY=40&color=a2d2b1&fontColor=FFFFFF)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khs08280&theme=radical)](https://github.com/khs08280?tab=repositories)
