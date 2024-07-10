@@ -14,4 +14,4 @@
 
 
 ## :memo:  Portfolio Site - Link
-[포트폴리오 링크](https://khs08280.github.io/portfolio/)
+![포트폴리오](https://github.com/khs08280/khs08280/assets/68547042/10ba339d-b634-4aa1-88b0-66a93ad3b95c)
