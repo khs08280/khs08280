@@ -13,5 +13,5 @@
 * ## Version Control : ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-## :memo:  Portfolio Site - Link
-![포트폴리오](https://github.com/khs08280/khs08280/assets/68547042/10ba339d-b634-4aa1-88b0-66a93ad3b95c)
+## :memo:  [Portfolio Site - Link](https://khs08280.github.io/portfolio/)
+[![포트폴리오](https://github.com/khs08280/khs08280/assets/68547042/10ba339d-b634-4aa1-88b0-66a93ad3b95c)](https://khs08280.github.io/portfolio/)
